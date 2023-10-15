@@ -5,6 +5,11 @@
   <br>
 </h1>
 
+This is the clone of the classical dyno game. The original code was written by [chrisdothtml](https://github.com/chrisdothtml/chrome-dino).
+
+I have just tuned into a small keyboard training application. The game support just a first row of standard German keyboards.
+I want to try the idea out, if it works more features will be added.
+
 > Remaking the chrome offline dinosaur game
 
 Note that this was previously written with p5.js but has since been refactored into a dependency-free approach. You can still see the old p5.js implementation in [the p5js branch](https://github.com/chrisdothtml/chrome-dino/tree/p5js).
